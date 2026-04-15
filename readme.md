@@ -5,9 +5,9 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
-- **Fecha de entrega**: _____________________________
+- **Nombre completo**: Pablo Pérez Martínez
+- **Carrera**: Software
+- **Fecha de entrega**: 15 de abril de 2026
 
 ---
 
